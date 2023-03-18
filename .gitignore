@@ -32,3 +32,6 @@ coverage
 /service/.env
 /docker-compose/nginx/html
 .env
+
+.vscode/
+
